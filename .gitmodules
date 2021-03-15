@@ -1,0 +1,3 @@
+[submodule "TetrisJS"]
+	path = TetrisJS
+	url = https://github.com/silvercent011/TetrisJS.git
