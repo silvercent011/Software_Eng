@@ -4,3 +4,6 @@
 [submodule "TramoiaAPI"]
 	path = TramoiaAPI
 	url = https://github.com/silvercent011/TramoiaAPI.git
+[submodule "TramoiaApp"]
+	path = TramoiaApp
+	url = https://github.com/silvercent011/TramoiaApp.git
